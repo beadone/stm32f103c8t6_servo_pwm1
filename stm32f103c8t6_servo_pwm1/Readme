@@ -1,0 +1,9 @@
+An eclipse project for a STM32f103c8t6 arm system.
+
+Will initialise the uart1 pins on an stm32f103c8t6 development board and send a message in a continuous loop. 
+It also blinks pa13 so you know all is working
+this project is built on the PA13 blink program.
+ It is the default program when creating a basic "hello world" for the stm32f103.
+
+You can download the whole project and import it into eclipse.
+The binary and debug files are also available if you want just load a working file to test your device
